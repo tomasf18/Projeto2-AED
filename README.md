@@ -1,9 +1,9 @@
 # Trabalho Prático - TAD GRAPH
 
 ## Departamento de Electrónica, Telecomunicações e Informática da Universidade de Aveiro
-Curso: Algoritmos e Estruturas de Dados  
-Ano Letivo: 2023/2024 — 1º Semestre  
-Data limite de entrega: 05 de janeiro de 2024
+Curso: Licenciatura em Engenharia Informática
+Cadeira: Algoritmos e Estruturas de Dados  
+Ano Letivo: 2023/2024 — 1º ano, 1º Semestre
 
 ## Objetivos
 
